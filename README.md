@@ -1,5 +1,4 @@
 # Student Management Portal
-
 A student record management system built using Python and SQLite.
 
 ## Features
